@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for Saruna Personal	</title>
-	<atom:link href="https://github.com/saruna65/Portfolio1/index.php/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/saruna65/Portfolio1</link>
+	<atom:link href="/index.php/comments/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
-	<lastBuildDate>Wed, 19 Jun 2024 12:10:31 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Jun 2024 15:16:47 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
